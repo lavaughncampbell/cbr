@@ -1,2 +1,2 @@
-# cbr
-My working directory for coding bootcamp review 
+# Coding Boot Camp 
+My working directory for coding bootcamp review
